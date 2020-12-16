@@ -10,7 +10,7 @@ resources:
 - service.yaml
 - ingress.yaml
 
-namespace: kube-system
+namespace: hml
 
 commonLabels:
   app: traefik
